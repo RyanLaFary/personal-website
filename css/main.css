@@ -1,0 +1,73 @@
+body {
+	background: url('../images/code.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: lato;
+	color: black;
+	backdrop-filter: blur(3px);
+}
+
+html {
+	height: 100%;
+}
+
+.jumbotron {
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;	
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgb(0,0,0,0.2);
+}
+
+p {
+	color: white;
+	font-size: 1.5em;
+	padding-top: 65px;
+}
+
+hr {
+	width: 1000px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgb(0,0,0,0.2);
+}
+
+.fas {
+	padding-right: 10px;
+}
+
+.fab {
+	font-size: 50px;
+}
+
+#link {
+	padding-top: 75px;
+	padding-left: 300px;
+}
+
+#github {
+	padding-top: 75px;
+	padding-left: 300px;
+}
+
+.form-group {
+	padding-top: 1rem;
+	font-size: 1.5em;
+}
+
+#submit {
+	margin-top: 2rem;
+}
+
+
+
+
